@@ -102,7 +102,7 @@ Receive immediate guidance when needed
 
 - Technical Skills
 - Microsoft Power Apps
-- - Microsoft Dataverse
+- Microsoft Dataverse
 - Power Automate
 - Data Modeling
 - Low-Code Development
