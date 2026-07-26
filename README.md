@@ -1,5 +1,4 @@
-## 🐾 BC WildWatch – Smart Campus Animal Safety & Incident Reporting System
-Overview
+## BC WildWatch – Smart Campus Animal Safety & Incident Reporting System
 
 BC WildWatch is an innovative mobile application developed to enhance safety and awareness across Belgium Campus ITversity by providing a centralized platform for reporting, monitoring, and managing animal-related incidents on campus.
 
@@ -22,11 +21,11 @@ Students and staff can create accounts and securely access the platform using th
 
 Features include:
 
-User registration
-Secure login
-Password recovery and reset
-Campus-specific account management
-Animal Sighting Reporting
+- User registration
+- Secure login
+- Password recovery and reset
+- Campus-specific account management
+- Animal Sighting Reporting
 
 Users can quickly report animal sightings directly from their mobile devices.
 
@@ -76,45 +75,44 @@ Access frequently asked questions
 Navigate the application
 Receive immediate guidance when needed
 
-Custom Dataverse tables were created to manage application data, including:
+# Custom Dataverse tables were created to manage application data, including:
 
--Users
-Animal Types
-Campus Locations
-Wildlife Sightings
-Incident Responses
-Future Technologies
-Microsoft Entra ID Authentication
-Power BI Analytics Dashboard
-AI-powered classification and reporting
-System Workflow
-A student or staff member logs into BC WildWatch.
-An animal sighting or incident is reported.
-Information is stored securely in Dataverse.
-Administrators receive and review the report.
-Severity and status are assigned.
-Staff investigate and respond.
-Resolution notes are documented.
-The incident is closed and archived.
-Users can monitor the outcome of their reports.
+- Users
+- Animal Types
+- Campus Locations
+- Wildlife Sightings
+- Incident Responses
+- Future Technologies
+- Microsoft Entra ID Authentication
+- Power BI Analytics Dashboard
+- AI-powered classification and reporting
+- System Workflow
+- A student or staff member logs into BC WildWatch.
+- An animal sighting or incident is reported.
+- Information is stored securely in Dataverse.
+- Administrators receive and review the report.
+- Severity and status are assigned.
+- Staff investigate and respond.
+- Resolution notes are documented.
+- The incident is closed and archived.
+- Users can monitor the outcome of their reports.
 
-
-## This project allowed me to combine technical development skills with business analysis and problem-solving to create a practical solution for a real-world campus challenge.
 
 # Skills Demonstrated
-Technical Skills
-Microsoft Power Apps
-Microsoft Dataverse
-Power Automate
-Data Modeling
-Low-Code Development
-Business Process Automation
-Database Design
-Professional Skills
-Problem Solving
-System Analysis
-Project Planning
-User-Centered Design
-Critical Thinking
-Stakeholder Communication
-Future Enhancements
+
+- Technical Skills
+- Microsoft Power Apps
+- - Microsoft Dataverse
+- Power Automate
+- Data Modeling
+- Low-Code Development
+- Business Process Automation
+- Database Design
+- Professional Skills
+- Problem Solving
+- System Analysis
+- Project Planning
+- User-Centered Design
+- Critical Thinking
+- Stakeholder Communication
+- Future Enhancements
