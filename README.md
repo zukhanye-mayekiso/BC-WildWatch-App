@@ -15,7 +15,7 @@ BC WildWatch was designed to solve this problem by creating a digital reporting 
 The goal was not only to improve campus safety but also to promote responsible interaction with wildlife and create a smarter, data-driven approach to incident management.
 
 ## Key Features
-# Secure User Authentication
+## Secure User Authentication
 
 Students and staff can create accounts and securely access the platform using their campus credentials.
 
@@ -64,7 +64,7 @@ Closing completed incidents
 
 This creates accountability and ensures every report is addressed appropriately.
 
-# Virtual Assistant Integration
+## Virtual Assistant Integration
 
 To improve accessibility and user support, BC WildWatch includes a virtual assistant accessible through QR-code technology.
 
@@ -75,7 +75,7 @@ Access frequently asked questions
 Navigate the application
 Receive immediate guidance when needed
 
-# Custom Dataverse tables were created to manage application data, including:
+## Custom Dataverse tables were created to manage application data, including:
 
 - Users
 - Animal Types
@@ -98,7 +98,7 @@ Receive immediate guidance when needed
 - Users can monitor the outcome of their reports.
 
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 - Technical Skills
 - Microsoft Power Apps
